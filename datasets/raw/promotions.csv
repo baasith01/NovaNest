@@ -1,0 +1,201 @@
+promo_id,promo_name,promo_type,discount_percentage,campaign_budget
+PR0001,Campaign_1,Free Delivery,6,88101
+PR0002,Campaign_2,Flat Discount,9,55607
+PR0003,Campaign_3,Free Delivery,14,93875
+PR0004,Campaign_4,Cashback,33,90935
+PR0005,Campaign_5,Free Delivery,25,39589
+PR0006,Campaign_6,Free Delivery,10,85017
+PR0007,Campaign_7,Cashback,33,16046
+PR0008,Campaign_8,Percentage Discount,29,76306
+PR0009,Campaign_9,Percentage Discount,20,52621
+PR0010,Campaign_10,Percentage Discount,13,83731
+PR0011,Campaign_11,Flat Discount,39,68777
+PR0012,Campaign_12,Flat Discount,35,22135
+PR0013,Campaign_13,Percentage Discount,10,99016
+PR0014,Campaign_14,Cashback,8,50308
+PR0015,Campaign_15,Free Delivery,28,37112
+PR0016,Campaign_16,Free Delivery,39,96558
+PR0017,Campaign_17,Free Delivery,17,53707
+PR0018,Campaign_18,Flat Discount,18,17498
+PR0019,Campaign_19,Percentage Discount,7,43861
+PR0020,Campaign_20,Flat Discount,36,22298
+PR0021,Campaign_21,Free Delivery,31,39075
+PR0022,Campaign_22,Free Delivery,8,65135
+PR0023,Campaign_23,Free Delivery,34,89186
+PR0024,Campaign_24,Free Delivery,17,49775
+PR0025,Campaign_25,Free Delivery,12,23653
+PR0026,Campaign_26,Flat Discount,14,79883
+PR0027,Campaign_27,Percentage Discount,13,97254
+PR0028,Campaign_28,Free Delivery,22,59910
+PR0029,Campaign_29,Percentage Discount,15,60257
+PR0030,Campaign_30,Flat Discount,28,85246
+PR0031,Campaign_31,Free Delivery,29,29580
+PR0032,Campaign_32,Percentage Discount,38,16690
+PR0033,Campaign_33,Cashback,10,87971
+PR0034,Campaign_34,Percentage Discount,34,73988
+PR0035,Campaign_35,Cashback,13,63137
+PR0036,Campaign_36,Percentage Discount,7,26526
+PR0037,Campaign_37,Flat Discount,31,52850
+PR0038,Campaign_38,Free Delivery,22,67240
+PR0039,Campaign_39,Flat Discount,37,75047
+PR0040,Campaign_40,Percentage Discount,8,33068
+PR0041,Campaign_41,Flat Discount,36,60535
+PR0042,Campaign_42,Cashback,29,55180
+PR0043,Campaign_43,Cashback,30,59562
+PR0044,Campaign_44,Free Delivery,34,58903
+PR0045,Campaign_45,Flat Discount,39,74678
+PR0046,Campaign_46,Flat Discount,28,81692
+PR0047,Campaign_47,Cashback,16,20596
+PR0048,Campaign_48,Flat Discount,14,13079
+PR0049,Campaign_49,Free Delivery,10,87264
+PR0050,Campaign_50,Flat Discount,12,78052
+PR0051,Campaign_51,Free Delivery,29,13402
+PR0052,Campaign_52,Flat Discount,33,10391
+PR0053,Campaign_53,Percentage Discount,38,68041
+PR0054,Campaign_54,Percentage Discount,30,89466
+PR0055,Campaign_55,Free Delivery,27,27495
+PR0056,Campaign_56,Cashback,20,15870
+PR0057,Campaign_57,Percentage Discount,5,42380
+PR0058,Campaign_58,Free Delivery,40,96594
+PR0059,Campaign_59,Cashback,7,68458
+PR0060,Campaign_60,Cashback,10,17935
+PR0061,Campaign_61,Cashback,23,81754
+PR0062,Campaign_62,Cashback,13,92901
+PR0063,Campaign_63,Cashback,30,64495
+PR0064,Campaign_64,Cashback,16,70496
+PR0065,Campaign_65,Free Delivery,10,41136
+PR0066,Campaign_66,Flat Discount,39,62542
+PR0067,Campaign_67,Cashback,18,18657
+PR0068,Campaign_68,Cashback,22,90157
+PR0069,Campaign_69,Cashback,37,30389
+PR0070,Campaign_70,Flat Discount,14,64711
+PR0071,Campaign_71,Free Delivery,32,89652
+PR0072,Campaign_72,Percentage Discount,31,75906
+PR0073,Campaign_73,Cashback,8,17371
+PR0074,Campaign_74,Free Delivery,13,70077
+PR0075,Campaign_75,Flat Discount,40,26151
+PR0076,Campaign_76,Flat Discount,7,83292
+PR0077,Campaign_77,Percentage Discount,12,73043
+PR0078,Campaign_78,Percentage Discount,14,65131
+PR0079,Campaign_79,Cashback,32,35170
+PR0080,Campaign_80,Cashback,11,19448
+PR0081,Campaign_81,Free Delivery,9,38998
+PR0082,Campaign_82,Free Delivery,23,23938
+PR0083,Campaign_83,Flat Discount,11,47764
+PR0084,Campaign_84,Free Delivery,10,92673
+PR0085,Campaign_85,Free Delivery,26,40800
+PR0086,Campaign_86,Cashback,16,81194
+PR0087,Campaign_87,Percentage Discount,15,61707
+PR0088,Campaign_88,Free Delivery,11,25596
+PR0089,Campaign_89,Free Delivery,18,19939
+PR0090,Campaign_90,Flat Discount,35,44224
+PR0091,Campaign_91,Percentage Discount,28,99620
+PR0092,Campaign_92,Cashback,35,68461
+PR0093,Campaign_93,Cashback,26,89555
+PR0094,Campaign_94,Percentage Discount,29,67099
+PR0095,Campaign_95,Free Delivery,7,42533
+PR0096,Campaign_96,Cashback,24,22688
+PR0097,Campaign_97,Flat Discount,14,59307
+PR0098,Campaign_98,Cashback,16,21964
+PR0099,Campaign_99,Cashback,40,48078
+PR0100,Campaign_100,Percentage Discount,18,61861
+PR0101,Campaign_101,Percentage Discount,29,68465
+PR0102,Campaign_102,Free Delivery,7,40996
+PR0103,Campaign_103,Free Delivery,9,64364
+PR0104,Campaign_104,Flat Discount,25,87602
+PR0105,Campaign_105,Cashback,31,64591
+PR0106,Campaign_106,Flat Discount,37,35996
+PR0107,Campaign_107,Flat Discount,38,60681
+PR0108,Campaign_108,Percentage Discount,18,10001
+PR0109,Campaign_109,Percentage Discount,15,99459
+PR0110,Campaign_110,Percentage Discount,15,40030
+PR0111,Campaign_111,Flat Discount,16,52414
+PR0112,Campaign_112,Percentage Discount,14,72720
+PR0113,Campaign_113,Percentage Discount,28,72908
+PR0114,Campaign_114,Free Delivery,16,84894
+PR0115,Campaign_115,Percentage Discount,7,19089
+PR0116,Campaign_116,Flat Discount,30,17662
+PR0117,Campaign_117,Flat Discount,28,36262
+PR0118,Campaign_118,Flat Discount,25,24040
+PR0119,Campaign_119,Percentage Discount,21,90224
+PR0120,Campaign_120,Cashback,30,21569
+PR0121,Campaign_121,Flat Discount,27,11016
+PR0122,Campaign_122,Percentage Discount,39,95497
+PR0123,Campaign_123,Free Delivery,40,32255
+PR0124,Campaign_124,Free Delivery,37,94015
+PR0125,Campaign_125,Free Delivery,10,17797
+PR0126,Campaign_126,Flat Discount,24,30987
+PR0127,Campaign_127,Cashback,9,68574
+PR0128,Campaign_128,Percentage Discount,32,48684
+PR0129,Campaign_129,Flat Discount,35,14789
+PR0130,Campaign_130,Percentage Discount,22,38254
+PR0131,Campaign_131,Percentage Discount,7,79068
+PR0132,Campaign_132,Percentage Discount,40,89519
+PR0133,Campaign_133,Percentage Discount,24,45481
+PR0134,Campaign_134,Flat Discount,10,68763
+PR0135,Campaign_135,Percentage Discount,33,82697
+PR0136,Campaign_136,Flat Discount,23,17229
+PR0137,Campaign_137,Flat Discount,30,15273
+PR0138,Campaign_138,Free Delivery,23,80525
+PR0139,Campaign_139,Free Delivery,11,36076
+PR0140,Campaign_140,Percentage Discount,35,13963
+PR0141,Campaign_141,Cashback,28,10400
+PR0142,Campaign_142,Flat Discount,33,68561
+PR0143,Campaign_143,Percentage Discount,31,60781
+PR0144,Campaign_144,Percentage Discount,9,97889
+PR0145,Campaign_145,Flat Discount,6,61605
+PR0146,Campaign_146,Free Delivery,7,29234
+PR0147,Campaign_147,Flat Discount,16,28347
+PR0148,Campaign_148,Cashback,36,24231
+PR0149,Campaign_149,Flat Discount,37,10640
+PR0150,Campaign_150,Free Delivery,23,70427
+PR0151,Campaign_151,Flat Discount,12,93003
+PR0152,Campaign_152,Flat Discount,36,95177
+PR0153,Campaign_153,Percentage Discount,8,56444
+PR0154,Campaign_154,Free Delivery,31,78159
+PR0155,Campaign_155,Free Delivery,16,28699
+PR0156,Campaign_156,Cashback,20,27806
+PR0157,Campaign_157,Cashback,29,48262
+PR0158,Campaign_158,Flat Discount,11,10535
+PR0159,Campaign_159,Percentage Discount,16,34054
+PR0160,Campaign_160,Cashback,15,72237
+PR0161,Campaign_161,Cashback,23,73471
+PR0162,Campaign_162,Cashback,38,80653
+PR0163,Campaign_163,Cashback,10,69185
+PR0164,Campaign_164,Percentage Discount,11,36419
+PR0165,Campaign_165,Cashback,5,67222
+PR0166,Campaign_166,Flat Discount,21,85686
+PR0167,Campaign_167,Percentage Discount,22,71863
+PR0168,Campaign_168,Flat Discount,24,54075
+PR0169,Campaign_169,Flat Discount,10,29114
+PR0170,Campaign_170,Percentage Discount,35,67146
+PR0171,Campaign_171,Free Delivery,26,13572
+PR0172,Campaign_172,Flat Discount,35,57454
+PR0173,Campaign_173,Cashback,18,92972
+PR0174,Campaign_174,Cashback,28,40156
+PR0175,Campaign_175,Cashback,21,23648
+PR0176,Campaign_176,Flat Discount,29,52760
+PR0177,Campaign_177,Free Delivery,17,24568
+PR0178,Campaign_178,Free Delivery,17,25483
+PR0179,Campaign_179,Flat Discount,33,25565
+PR0180,Campaign_180,Percentage Discount,19,27120
+PR0181,Campaign_181,Percentage Discount,31,82440
+PR0182,Campaign_182,Free Delivery,39,74097
+PR0183,Campaign_183,Free Delivery,12,57700
+PR0184,Campaign_184,Cashback,31,57563
+PR0185,Campaign_185,Cashback,11,14884
+PR0186,Campaign_186,Flat Discount,40,48042
+PR0187,Campaign_187,Percentage Discount,10,56193
+PR0188,Campaign_188,Percentage Discount,39,20606
+PR0189,Campaign_189,Free Delivery,38,52090
+PR0190,Campaign_190,Free Delivery,24,19406
+PR0191,Campaign_191,Cashback,16,81272
+PR0192,Campaign_192,Free Delivery,7,92814
+PR0193,Campaign_193,Percentage Discount,28,71157
+PR0194,Campaign_194,Flat Discount,14,57749
+PR0195,Campaign_195,Free Delivery,31,62223
+PR0196,Campaign_196,Percentage Discount,7,67319
+PR0197,Campaign_197,Percentage Discount,15,91691
+PR0198,Campaign_198,Percentage Discount,12,76003
+PR0199,Campaign_199,Flat Discount,8,79015
+PR0200,Campaign_200,Flat Discount,40,30785
